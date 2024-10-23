@@ -2,7 +2,7 @@
   "name": "project-idx-theme",
   "displayName": "project-idx-theme",
   "description": "a vscode theme inspare by project-idx",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "author": {
     "name": "sumangal karan",
     "email": "sumangalkaran44@gmail.com"
@@ -32,9 +32,9 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "monospace-icons",
-        "label": "Monospace Icons",
-        "path": "./icons/monospace-icon-theme.json"
+        "id": "charmed-icons",
+        "label": "Charmed Icons",
+        "path": "./icons/charmed-icon-theme.json"
       }
     ],
     "themes": [

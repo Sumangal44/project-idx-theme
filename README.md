@@ -1,12 +1,72 @@
-# project-idx-theme README
+# charmed-icon+project-idx-theme README
 
-## Working with Markdown
+<p align="center">
+  <p align="center">
+	<img src="assets/icons.png" alt="Logo" width="128" />
+  </p>
+  <h1 align="center"><b>Charmed Icons</b></h1>
+</p>
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+<div align="center">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![GitHub Stars](https://img.shields.io/github/stars/sumangal44/project-idx-theme?style=for-the-badge&logo=github)
+
+<img src="assets/files.png" alt="Files" width="512" />
+<br><br>
+<img src="assets/folders.png" alt="Folders" width="512" />
+
+</div>
+
+## ⚙️ Usage
+
+
+### Manual
+
+1. Download the `.vsix` file from the [Releases](https://github.com/sumangal44/project-idx-theme/releases) page.
+2. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) in VS Code.
+3. Run the `Extensions: Install from VSIX...` command.
+
+## 🙌 Requests
+
+If you have any icon requests, please [open an issue](https://github.com/sumangal44/project-idx-theme/issues/new).
+
+
+## ❤️ Gratitude
+
+Charmed Icons draws inspiration from:
+
+- [Charmed Icons](https://github.com/littensy/charmed-icons)
+: Chardmed Icons from littensy
+
+- [Monospace Theme](https://github.com/keksiqc/monospace-theme): The Monospace Theme from Google's IDX.
+
+---
+
+<p align="center">
+project-idx-theme is released under the <a href="LICENSE.md">MIT License</a>.
+</p>
+
+<div align="center">
+
+[![MIT License](https://img.shields.io/github/license/littensy/charmed-icons?style=for-the-badge)](LICENSE.md)
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Dark
 
