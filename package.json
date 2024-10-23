@@ -1,0 +1,29 @@
+{
+  "name": "project-idx-theme",
+  "displayName": "project-idx-theme",
+  "description": "a vscode theme inspare by project-idx",
+  "version": "0.0.1",
+  "author": {
+    "name": "sumangal karan",
+    "email": "sumangalkaran44@gmail.com"
+  },
+  "publisher": "sumangal44",
+  "license": "MIT",
+  "repository": "https://github.com/sumangal44/project-idx-theme",
+
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "project-idx-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/project-idx-theme-color-theme.json"
+      }
+    ]
+  }
+}
