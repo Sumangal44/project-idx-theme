@@ -1,19 +1,18 @@
-# charmed-icon+project-idx-theme README
+# charmed-icon+Neo-Mono-Theme README
 
 <p align="center">
-  <p align="center">
-	<img src="assets/icons.png" alt="Logo" width="128" />
-  </p>
-  <h1 align="center"><b>Charmed Icons</b></h1>
+    <img src="https://github.com/Sumangal44/Neo-Mono-Theme/raw/master/assets/icon.png" width="80" />
+    <img src="https://github.com/Sumangal44/Neo-Mono-Theme/raw/master/assets/icons.png" width="80" />
+    <h2 align="center">Neo-Mono-Theme for VSCode</h2>
 </p>
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/sumangal44/project-idx-theme?style=for-the-badge&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/sumangal44/Neo-Mono-Theme?style=for-the-badge&logo=github)
 
-<img src="assets/files.png" alt="Files" width="512" />
+<img src="https://github.com/Sumangal44/Neo-Mono-Theme/raw/1255396cd169d9533ed1c053fa9e39e63dc40cc4/assets/files.png" alt="Files" width="512" />
 <br><br>
-<img src="assets/folders.png" alt="Folders" width="512" />
+<img src="https://github.com/Sumangal44/Neo-Mono-Theme/raw/master/assets/folders.png" alt="Folders" width="512" />
 
 </div>
 
@@ -22,13 +21,13 @@
 
 ### Manual
 
-1. Download the `.vsix` file from the [Releases](https://github.com/sumangal44/project-idx-theme/releases) page.
+1. Download the `.vsix` file from the [Releases](https://github.com/sumangal44/Neo-Mono-Theme/releases) page.
 2. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P`) in VS Code.
 3. Run the `Extensions: Install from VSIX...` command.
 
 ## 🙌 Requests
 
-If you have any icon requests, please [open an issue](https://github.com/sumangal44/project-idx-theme/issues/new).
+If you have any icon requests, please [open an issue](https://github.com/sumangal44/Neo-Mono-Theme/issues/new).
 
 
 ## ❤️ Gratitude
@@ -43,7 +42,7 @@ Charmed Icons draws inspiration from:
 ---
 
 <p align="center">
-project-idx-theme is released under the <a href="LICENSE.md">MIT License</a>.
+Neo-Mono-Theme is released under the <a href="LICENSE.md">MIT License</a>.
 </p>
 
 <div align="center">
@@ -56,22 +55,12 @@ project-idx-theme is released under the <a href="LICENSE.md">MIT License</a>.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### Dark
 
-![Dark](https://github.com/keksiqc/monospace-theme/raw/main/assets/preview-dark.webp)
+![Dark](https://github.com/Sumangal44/Neo-Mono-Theme/raw/master/assets/preview-dark.webp)
 
+### Light
+![Light](https://github.com/Sumangal44/Neo-Mono-Theme/raw/master/assets/preview-light.webp)
 ## For more information
 
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)

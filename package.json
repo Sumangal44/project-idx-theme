@@ -1,31 +1,34 @@
 {
-  "name": "project-idx-theme",
-  "displayName": "project-idx-theme",
+  "name": "Neo-Mono-Theme",
+  "displayName": "Neo-Mono-Theme",
   "description": "a vscode theme inspare by project-idx",
-  "version": "1.0.1",
+  "version": "2.4.0",
   "author": {
     "name": "sumangal karan",
     "email": "sumangalkaran44@gmail.com"
   },
   "publisher": "sumangal44",
   "license": "MIT",
-  "repository": "https://github.com/sumangal44/project-idx-theme",
+  "repository": "https://github.com/Sumangal44/Neo-Mono-Theme.git",
 
   "engines": {
-    "vscode": "^1.94.0"
+    "vscode": "^1.95.0"
   },
   "categories": [
     "Themes"
   ],
   "keywords": [
-    "project",
-    "project-idx-theme",
+    "Mono",
+    "Neo-Mono-Theme",
     "idx",
     "theme",
     "dark",
+    "light",
     "google",
     "purple",
-    "idx-theme"
+    "idx-theme",
+    "monospace",
+    "monospace-theme"
   ],
   "icon": "assets/icon.png",
 
@@ -39,9 +42,14 @@
     ],
     "themes": [
       {
-        "label": "project-idx-theme",
+        "label": "Neo-Mono-Theme-Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/project-idx-theme-color-theme.json"
+        "path": "./themes/Neo-Mono-Theme-Dark.json"
+      },
+      {
+        "label": "Neo-Mono-Theme-Light",
+        "uiTheme": "vs",
+        "path": "./themes/Neo-Mono-Theme-Light.json"
       }
     ]
   }
